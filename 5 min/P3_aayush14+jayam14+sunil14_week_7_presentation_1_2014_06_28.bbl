@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{bigbenchgit}
+``{BigBench Installation \\
+  \url{https://github.com/intel-hadoop/Big-Bench/blob/master/README.md}.
+  Accessed on \today}.''
+
+\bibitem{bigb}
+T.~Rabl, A.~Ghazal, M.~Hu, A.~Crolotte, F.~Raab, M.~Poess, and H.-A. Jacobsen,
+  ``Bigbench specification v0. 1,'' in {\em Specifying Big Data Benchmarks},
+  pp.~164--201, Springer, 2014.
+
+\end{thebibliography}

@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Hadoop Architecture \cite {PNC}\relax }}{4}{figure.caption.6}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Yarn Architecture \cite {yarn}\relax }}{6}{figure.caption.7}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Complete View of Map-Reduce \cite {PNC}\relax }}{7}{figure.caption.8}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ganglia Interface \relax }}{14}{figure.caption.9}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Big-Bench Data Model \cite {ghazal}\relax }}{17}{figure.caption.10}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Review Generation Model \cite {ghazal}\relax }}{19}{figure.caption.11}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Workload Distribution \cite {springer}\relax }}{20}{figure.caption.12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Memory Usage on Slave \relax }}{26}{figure.caption.13}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Network Usage on Cluster \relax }}{27}{figure.caption.14}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Average Query Response Times for different data sizes\relax }}{28}{figure.caption.15}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Scale Factor for change in query response time w.r.t. 1 GB data \relax }}{30}{figure.caption.16}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Scale Factor for change in query response time w.r.t. 1 GB data \relax }}{30}{figure.caption.17}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

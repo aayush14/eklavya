@@ -1,0 +1,83 @@
+% biblio.bib
+
+@article{Hive,
+  title={Hive: a warehousing solution over a map-reduce framework},
+  author={Thusoo, Ashish and Sarma, Joydeep Sen and Jain, Namit and Shao, Zheng and Chakka, Prasad and Anthony, Suresh and Liu, Hao and Wyckoff, Pete and Murthy, Raghotham},
+  journal={Proceedings of the VLDB Endowment},
+  volume={2},
+  number={2},
+  pages={1626--1629},
+  year={2009},
+  publisher={VLDB Endowment}
+}
+
+@article{doug,
+  title={3D data management: Controlling data volume, velocity and variety},
+  author={Laney, Doug},
+  journal={META Group Research Note},
+  volume={6},
+  year={2001}
+}
+
+
+@inproceedings{ghazal,
+  title={Bigbench: Towards an industry standard benchmark for big data analytics},
+  author={Ghazal, Ahmad and Rabl, Tilmann and Hu, Minqing and Raab, Francois and Poess, Meikel and Crolotte, Alain and Jacobsen, Hans-Arno},
+  booktitle={Proceedings of the 2013 international conference on Management of data},
+  pages={1197--1208},
+  year={2013},
+  organization={ACM}
+}
+
+
+@incollection{springer,
+  title={BigBench Specification V0. 1},
+  author={Rabl, Tilmann and Ghazal, Ahmad and Hu, Minqing and Crolotte, Alain and Raab, Francois and Poess, Meikel and Jacobsen, Hans-Arno},
+  booktitle={Specifying Big Data Benchmarks},
+  pages={164--201},
+  year={2014},
+  publisher={Springer}
+}
+
+@misc{bigbenchgit,
+  title =  {{BigBench Installation \\ \url{https://github.com/intel-hadoop/Big-Bench/blob/master/README.md}. Accessed on \today}},
+}
+
+
+@article{PNC,
+  title={Data-intensive text processing with MapReduce},
+  author={Lin, Jimmy and Dyer, Chris},
+  journal={Synthesis Lectures on Human Language Technologies},
+  volume={3},
+  number={1},
+  pages={1--177},
+  year={2010},
+  publisher={Morgan \& Claypool Publishers}
+}
+
+@book{yarn,
+  title={Apache Hadoop YARN: Moving Beyond MapReduce and Batch Processing with Apache Hadoop 2},
+  author={Murthy, Arun and Vavilapalli, Vinod Kumar and Eadline, Doug and Markham, Jeffrey and Niemiec, Joseph},
+  chapter={Yarn Components},
+  pages={17},
+  year={2013},
+  publisher={Pearson Education}
+}
+
+@misc{Features,
+  title =        {{Hadoop Architecture. Available at \url{http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.0.9.0/bk_using-apache-hadoop/content/ch_using-apache-hadoop-1.html}. Accessed on 30th June 2014}},
+}
+
+@misc{mapreduce,
+  title =        {{Hadoop Mapreduce. Available at \url{http://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html}. Accessed on 30th June 2014}},
+}
+@misc{multi,
+  title =        {{Hadoop MultiNode Installation. Available at \url{http://solaimurugan.blogspot.in/2013/11/setup-multi-node-hadoop-20-cluster.html}. Accessed on 5 June 2014}},
+}
+@misc{single,
+  title =        {{Hadoop SingleNode Installation. Available at \url{http://hadoop.apache.org/docs/r0.18.2}. Accessed on 7 June 2014}},
+}
+@misc{ganglia,
+  title =        {{Ganglia Installation. Available at \url{ http://www.slashroot.in/how-install-and-configure-ganglia-gmod-and-ganglia-
+gmetad}. Accessed on 26th June 2014}},
+}

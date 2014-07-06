@@ -1,0 +1,12 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Query Run-Times obtained in \cite {springer} \relax }}{20}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Categorization of Queries\relax }}{21}{table.3.2}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Query Response Time for 2, 3 and 4 Data nodes\relax }}{27}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Scale Factor for change in query response time for 3 and 4 Data nodes\relax }}{29}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Error in Predicted time w.r.t Experimental time for 3 Datanodes\relax }}{31}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Error in Predicted time w.r.t Experimental time for 4 Data nodes\relax }}{31}{table.4.4}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{hadoop}
+``{Hadoop Architecture. Available at \url{http://docs.hortonworks.com}.
+  Accessed on 30th June 2014},'' November 2011.
+
+\bibitem{hive}
+A.~Thusoo, J.~S. Sarma, N.~Jain, Z.~Shao, P.~Chakka, S.~Anthony, H.~Liu,
+  P.~Wyckoff, and R.~Murthy, ``{Hive - A Warehousing Solution Over a Map-Reduce
+  Framework},'' {\em Proceedings of the VLDB Endowment}, pp.~1626--1629, August
+  2009.
+
+\bibitem{ganglia}
+``{Ganglia Installation. Available at \url{
+  http://www.slashroot.in/how-install-and-configure-ganglia-gmod-and-ganglia-
+  gmetad}. Accessed on 26th June 2014},'' March 2013.
+
+\bibitem{ghazal}
+A.~Ghazal, T.~Rabl, M.~Hu, F.~Raab, M.~Poess, A.~Crolotte, and H.-A. Jacobsen,
+  ``Bigbench: Towards an industry standard benchmark for big data analytics,''
+  in {\em Proceedings of the 2013 international conference on Management of
+  data}, pp.~1197--1208, ACM, 2013.
+
+\bibitem{bigbenchgit}
+``{BigBench Installation \\
+  \url{https://github.com/intel-hadoop/Big-Bench/blob/master/README.md}.
+  Accessed on \today}.''
+
+\bibitem{bigb}
+T.~Rabl, A.~Ghazal, M.~Hu, A.~Crolotte, F.~Raab, M.~Poess, and H.-A. Jacobsen,
+  ``Bigbench specification v0. 1,'' in {\em Specifying Big Data Benchmarks},
+  pp.~164--201, Springer, 2014.
+
+\bibitem{paper}
+Y.~Chen, S.~Alspaugh, and R.~Katz, ``Interactive analytical processing in big
+  data systems: A cross-industry study of mapreduce workloads,'' {\em
+  Proceedings of the VLDB Endowment}, vol.~5, no.~12, pp.~1802--1813, 2012.
+
+\bibitem{paper1}
+Z.~Ming, C.~Luo, W.~Gao, R.~Han, Q.~Yang, L.~Wang, and J.~Zhan, ``Bdgs: A
+  scalable big data generator suite in big data benchmarking,'' {\em arXiv
+  preprint arXiv:1401.5465}, 2014.
+
+\end{thebibliography}

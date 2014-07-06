@@ -1,0 +1,64 @@
+\begin{thebibliography}{10}
+
+\bibitem{PNC}
+J.~Lin and C.~Dyer, ``Data-intensive text processing with mapreduce,'' {\em
+  Synthesis Lectures on Human Language Technologies}, vol.~3, no.~1,
+  pp.~1--177, 2010.
+
+\bibitem{yarn}
+A.~Murthy, V.~K. Vavilapalli, D.~Eadline, J.~Markham, and J.~Niemiec, {\em
+  Apache Hadoop YARN: Moving Beyond MapReduce and Batch Processing with Apache
+  Hadoop 2}.
+\newblock Pearson Education, 2013.
+
+\bibitem{ghazal}
+A.~Ghazal, T.~Rabl, M.~Hu, F.~Raab, M.~Poess, A.~Crolotte, and H.-A. Jacobsen,
+  ``Bigbench: Towards an industry standard benchmark for big data analytics,''
+  in {\em Proceedings of the 2013 international conference on Management of
+  data}, pp.~1197--1208, ACM, 2013.
+
+\bibitem{springer}
+T.~Rabl, A.~Ghazal, M.~Hu, A.~Crolotte, F.~Raab, M.~Poess, and H.-A. Jacobsen,
+  ``Bigbench specification v0. 1,'' in {\em Specifying Big Data Benchmarks},
+  pp.~164--201, Springer, 2014.
+
+\bibitem{Features}
+``{Hadoop Architecture. Available at
+  \url{http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.0.9.0/bk_using-apache-hadoop/content/ch_using-apache-hadoop-1.html}.
+  Accessed on 30th June 2014}.''
+
+\bibitem{mapreduce}
+``{Hadoop Mapreduce. Available at
+  \url{http://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html}. Accessed on
+  30th June 2014}.''
+
+\bibitem{single}
+``{Hadoop SingleNode Installation. Available at
+  \url{http://hadoop.apache.org/docs/r0.18.2}. Accessed on 7 June 2014}.''
+
+\bibitem{multi}
+``{Hadoop MultiNode Installation. Available at
+  \url{http://solaimurugan.blogspot.in/2013/11/setup-multi-node-hadoop-20-cluster.html}.
+  Accessed on 5 June 2014}.''
+
+\bibitem{ganglia}
+``{Ganglia Installation. Available at \url{
+  http://www.slashroot.in/how-install-and-configure-ganglia-gmod-and-ganglia-
+  gmetad}. Accessed on 26th June 2014}.''
+
+\bibitem{Hive}
+A.~Thusoo, J.~S. Sarma, N.~Jain, Z.~Shao, P.~Chakka, S.~Anthony, H.~Liu,
+  P.~Wyckoff, and R.~Murthy, ``Hive: a warehousing solution over a map-reduce
+  framework,'' {\em Proceedings of the VLDB Endowment}, vol.~2, no.~2,
+  pp.~1626--1629, 2009.
+
+\bibitem{doug}
+D.~Laney, ``3d data management: Controlling data volume, velocity and
+  variety,'' {\em META Group Research Note}, vol.~6, 2001.
+
+\bibitem{bigbenchgit}
+``{BigBench Installation \\
+  \url{https://github.com/intel-hadoop/Big-Bench/blob/master/README.md}.
+  Accessed on \today}.''
+
+\end{thebibliography}
